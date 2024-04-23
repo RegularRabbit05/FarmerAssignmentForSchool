@@ -1,4 +1,4 @@
-# Farn tool
+# Farm tool
 
 ---
 
